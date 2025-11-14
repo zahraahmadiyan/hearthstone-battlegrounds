@@ -79,7 +79,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="./reference_images/photo_2025-11-14-16-32-23.jpg" alt="Triple reward prompt" width="360"><br>
+      <img src="./reference_images/photo_2025-11-14_16-32-23.jpg" alt="Triple reward prompt" width="360"><br>
       <em>Trigger شدن Triple و دریافت پاداش Tier بالاتر</em>
     </td>
     <td align="center">
