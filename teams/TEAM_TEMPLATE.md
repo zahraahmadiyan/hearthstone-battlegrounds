@@ -4,10 +4,10 @@ Copy this file and save it in this folder with your team name. Example: `teams/p
 
 ## Basic Info
 
-- Team name:
+- Team name: Ahmadian
 - Branch name: `team/<team-name>`
 - Members:
-  - Member 1 — Student ID
+  - Member 1 — Hadi Ahmadiyan - 610101087
   - Member 2 — Student ID
   - Member 3 — Student ID
 
