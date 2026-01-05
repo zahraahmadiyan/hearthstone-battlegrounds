@@ -1,0 +1,8 @@
+{
+  "action": "DISCOVER_CHOICE",
+  "token": "user-uuid-1234",
+  "payload": {
+    "request_id": "uuid-456",
+    "card_id": "BG_FRONT_013"
+  }
+}
